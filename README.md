@@ -40,7 +40,7 @@ During the class, we simulated OTC trading vs. exchange trading games. In the ex
 - **Report and Documentation**
     - Report to describe the methodology and results (1%).
     - Documentation of code logic (1%).
-
+---
 ## Deadline
 - 23:59 hours, 26th Oct 2024.
 
