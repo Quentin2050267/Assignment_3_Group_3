@@ -45,7 +45,7 @@ During the class, we simulated OTC trading vs. exchange trading games. In the ex
 - 23:59 hours, 26th Oct 2024.
 
 ## Submission Instructions
-- Submit via Canvas by the deadline. Late submission will be penalized.
+- Submit via [**Canvas**](https://canvas.nus.edu.sg/courses/62469/assignments/145368) by the deadline. Late submission will be penalized.
 - Zip all files into one zip file with the naming format `Assignment_x_Group_x`. Group number should be the same as the project groups you are in on Canvas. No extra folder is needed inside the zip file.
 - Python code should be executable and well documented. Both `.py` or `.ipynb` files are acceptable.
 - Your report should document your methodology, analysis, and findings clearly and concisely, including all visualizations and statistical test results (if any). The report should be well formatted in A4 size PDF format with no more than 5 pages. In your report, please put all group members’ names and matric numbers.
