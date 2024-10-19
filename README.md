@@ -25,9 +25,8 @@ During the class, we simulated OTC trading vs. exchange trading games. In the ex
 ---
 
 ### Order Book State
-- After each order submission, print the updated order book showing the top buy and sell orders (1%).
-- Implement a method to print the full order book for both bid and ask price levels with aggregated size for each level (2%).
-
+- Implement the function to print the full order book for both bid ask price levels with aggregated size for each level. (1.5%)
+- Show the order book state after 5th order, 20th order, and last order. (1.5%)
 
 ### Trade Log
 - Record the details of all trades matched with all the necessary information (2%).
